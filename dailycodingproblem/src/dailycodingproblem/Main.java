@@ -4,7 +4,9 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("My new Git Project");
+		ExecutableProblem ex = new Day1();
+		
+		ex.execute();
 	}
 
 }
